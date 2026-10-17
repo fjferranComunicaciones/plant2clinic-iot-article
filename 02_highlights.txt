@@ -1,0 +1,5 @@
+Edge IoT connects room monitoring, QR traceability, and human review.
+Digital supervision separates production state from its inspection replica.
+Farmer and healthcare mobile demos expose complementary human workflows.
+A log audit checks 54,982 room states after excluding 284 freshness states.
+AI assistance is separated from deterministic monitoring and record approval.

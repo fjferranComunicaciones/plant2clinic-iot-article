@@ -1,0 +1,6 @@
+Journal: Internet of Things (Elsevier)
+Title: From Cultivation to Care: Edge IoT, Digital Supervision and Mobile Interfaces for Medicinal-Plant Traceability
+Corresponding author: Francisco-Javier Ferrández-Pastor
+Email: fjferran@ua.es
+Keywords: Internet of Things; Edge computing; Digital supervision; Human-machine interfaces; Traceability; Medicinal plants; AI assistance
+Abstract words: 223

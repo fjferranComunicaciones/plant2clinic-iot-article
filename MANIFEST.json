@@ -1,0 +1,162 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "697f0d5c647c5bf1fd65c06a9d4fc84f061683f78f283bdb91f4732852587bc1",
+    "bytes": 83
+  },
+  {
+    "path": "01-registro-en-campo-still.png",
+    "sha256": "74b6e349f9a81175293cb7ac6b6571f624864194e4d87f0815d4dd49eb5a8187",
+    "bytes": 157198
+  },
+  {
+    "path": "01-registro-en-campo.mp4",
+    "sha256": "910fd1aac5053310081513960d93a9e20052757cd8a6ddd41072f4b2690d9038",
+    "bytes": 1510199
+  },
+  {
+    "path": "01_cover_letter.docx",
+    "sha256": "98e47ec59299c7f15f7ddffa2d9adaa6e43bb3ac56382363f8a78e3188af0634",
+    "bytes": 37426
+  },
+  {
+    "path": "02-trazabilidad-movil-still.png",
+    "sha256": "5c18725fb8b51eed1a1d79b21145448ec5eaa0fb6867fce3243bb37520fe02e5",
+    "bytes": 202970
+  },
+  {
+    "path": "02-trazabilidad-movil.mp4",
+    "sha256": "63ed726b25d41369e3199e42aa5490e0a0cb76025f30422b3398f26fcbfbb2fc",
+    "bytes": 1863380
+  },
+  {
+    "path": "02_highlights.docx",
+    "sha256": "1387704972d6111253739fcea639a93550ae38fa04b0958145b80aad5b66eda4",
+    "bytes": 36859
+  },
+  {
+    "path": "02_highlights.txt",
+    "sha256": "c044b45d8c01c45d49bcfacfa977e008717029bfad198ca9c8f111c23b55192b",
+    "bytes": 373
+  },
+  {
+    "path": "03-adaptacion-iot-still.png",
+    "sha256": "0e8337384405aa3f81c7c6831b24684d1b105dad5717e9e7d8b27f2835ac2a3a",
+    "bytes": 404458
+  },
+  {
+    "path": "03-adaptacion-iot.mp4",
+    "sha256": "c1cbd0fbfb9b46cde14a7bf3cacef7e9aff43c4c686c5e912e529e320f2e4ca1",
+    "bytes": 2129285
+  },
+  {
+    "path": "03_manuscript.pdf",
+    "sha256": "1342fa70ce2e3029bd1dfae9bf1f0191b3474b39e957ccb3c88829fa36ecfb95",
+    "bytes": 11982082
+  },
+  {
+    "path": "04-asistente-ia-gacp-still.png",
+    "sha256": "2cb4daaa786b704040a7311d562ad2e0689be7f33a28c4383ee8ab50aeac2365",
+    "bytes": 420172
+  },
+  {
+    "path": "04-asistente-ia-gacp.mp4",
+    "sha256": "25e6696918585af0d1cdc4ddcc96b96bfccbea0c8f3684689157f4b50224715d",
+    "bytes": 2386777
+  },
+  {
+    "path": "04_title_page.docx",
+    "sha256": "5a30003b19bca1be2b4a4598580794926cee5fe3c5848dc9881868aba0a531db",
+    "bytes": 37190
+  },
+  {
+    "path": "05_supplementary_material.pdf",
+    "sha256": "06762adb7dc643fbf2bee450fbf984c7fda1a7db90ab49f72b4783d6147056e7",
+    "bytes": 3189922
+  },
+  {
+    "path": "06_declaration_of_interest.docx",
+    "sha256": "f1a9002a2a771d6bce71eb2e30ec5169eef303ad99c86522931f1208abd87069",
+    "bytes": 36895
+  },
+  {
+    "path": "07_CRediT_author_statement.docx",
+    "sha256": "213787f46db317b60bb941247a712a15c95980ca550cb920702194e9904a3397",
+    "bytes": 36938
+  },
+  {
+    "path": "08_latex_source.zip",
+    "sha256": "19828d5410e4bcd795011557a0eff5724fddc7ddd06c7db0a6ba12c8c1ed29ee",
+    "bytes": 14774193
+  },
+  {
+    "path": "09_supplementary_data_original.zip",
+    "sha256": "e673990e67a0191d532fa84e132424e43f64e995f9b1dd6dafa9562382ed1ec0",
+    "bytes": 52137
+  },
+  {
+    "path": "10_ethics_declaration.docx",
+    "sha256": "5f648e8bc8c6cb4a68f1560daaa3f44e2955c1fd781823e0c94953e7f194463f",
+    "bytes": 36959
+  },
+  {
+    "path": "11_abstract.txt",
+    "sha256": "075df2ed79035071134e3fabaa03e0b3c63f1730e531806cebc609e59d0d6a81",
+    "bytes": 1864
+  },
+  {
+    "path": "12_submission_metadata.txt",
+    "sha256": "0b2eb2a2bcbc919706eff94ade8b8b342e3442a6ac7a79095fc3952cf42805c3",
+    "bytes": 395
+  },
+  {
+    "path": "13_s2_evaluation_records.zip",
+    "sha256": "42d55c34d14131e929baa6e4b538e156dff78f5fcec2778b69baec1818b5ce58",
+    "bytes": 7416
+  },
+  {
+    "path": "14_demonstration_guide.pdf",
+    "sha256": "0694be4521d4a51e0e33a1c0f0b1c43e2e705e4f7a5e1941087e42fcc94ceb14",
+    "bytes": 164736
+  },
+  {
+    "path": "15_declarations.docx",
+    "sha256": "d698e6b30f5d3b945a9d6af837fb05d21694aa520e3213de7b007b8b10ca52f8",
+    "bytes": 37671
+  },
+  {
+    "path": "16_funding_statement.docx",
+    "sha256": "e0f90daeca1ba2b805be5679085fcd64cdbb3d1d280bcea644c21d62ce2fa737",
+    "bytes": 37037
+  },
+  {
+    "path": "16_funding_statement.txt",
+    "sha256": "ae0df4b7ccd31e06842349be5af73d1990eca601207390fef1e525e7d08ffdf3",
+    "bytes": 396
+  },
+  {
+    "path": "17_AI_use_declaration.docx",
+    "sha256": "e19304335e2f4d27798205912f9ff217f759e3e575ee767ce8d94fbda99cebad",
+    "bytes": 37122
+  },
+  {
+    "path": "17_AI_use_declaration.txt",
+    "sha256": "e50245ec52ba92e78f1f5223ce7fa3f0a1fdca843a499f681a4edabbc931aef0",
+    "bytes": 613
+  },
+  {
+    "path": "18_evaluation_data.zip",
+    "sha256": "5e15bfc6c4709646438a1660d9d2c2386618157b80f95551f7976014e73f582e",
+    "bytes": 59735
+  },
+  {
+    "path": "GUIA_DE_CARGA.md",
+    "sha256": "3131f53a182fddf92163affe52e3465ca4724607977520dc7d6c83e34e65faa3",
+    "bytes": 3865
+  },
+  {
+    "path": "README.md",
+    "sha256": "0beb4f908ddb07145ae73bedac22ae13ba2795741871ce257a18081f705c91b6",
+    "bytes": 2410
+  }
+]
