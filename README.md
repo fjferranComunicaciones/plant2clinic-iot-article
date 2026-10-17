@@ -20,6 +20,6 @@ The mobile applications illustrate complementary workflows; simulated inputs and
 
 ## Access and publication status
 
-This repository is intended to remain **private** at the author's request. It is a working repository, not a public archival deposit or a published article. It has no DOI. Do not describe the data as publicly accessible while the repository is private. A journal data-availability statement must accurately reflect access and any restrictions at submission time.
+This repository is publicly accessible at https://github.com/fjferranComunicaciones/plant2clinic-iot-article as of 17 October 2026. It contains manuscript working materials and supporting evaluation records; it is not a peer-reviewed publication. No DOI has been assigned. Public access does not establish complete reproducibility: the limits and omitted operational data are described above.
 
 Operational SQLite databases, credentials, clinical application manuals and the production application's Git history are not included. No open-source or data reuse licence has been selected; repository access does not itself grant a licence.
